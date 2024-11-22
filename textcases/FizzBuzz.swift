@@ -1,3 +1,11 @@
+//
+//  FizzBuzz.swift
+//  textcases
+//
+//  Created by Sohagia Yash on 11/22/24.
+//
+
+
 struct FizzBuzz{
     func check(a : Int) -> String{
         if(a % 3 == 0 && a % 5 == 0){
